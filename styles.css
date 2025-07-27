@@ -1011,15 +1011,15 @@ img{
 @keyframes words{
     0%,
     20%{
-        content: "Frontend Designer";
+        content: "Full Stack Developer";
     }
     21%,
     40%{
-        content: "UI/UX Designer";
+        content: "AI Engineer";
     }
     41%,
     60%{
-        content: "Web Developer";
+        content: "ML Engineer";
     }
     61%,
     80%{
